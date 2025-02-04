@@ -6,8 +6,11 @@ This repository demonstrates the implementation of culling techniques in OpenGL,
 
 ## Screenshots
 
+### Face Culling
 ![Face Culling](01_FaceCulling/Screenshot1.png)
 ![Face Culling](01_FaceCulling/Screenshot2.png)
+
+### Frustume Culling
 ![Frustum Culling](02_FrustumCulling/Screenshot1.png)
 ![Frustum Culling](02_FrustumCulling/Screenshot2.png)
 
